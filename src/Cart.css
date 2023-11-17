@@ -1,0 +1,19 @@
+.cart{
+
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+}
+.cart svg{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.cart .qty{
+    position: absolute;
+    bottom: 0;
+    /* right: 0; */
+}
